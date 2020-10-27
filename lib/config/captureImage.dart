@@ -1,0 +1,1 @@
+enum ImageSelectionAction { GALLERY, CAMERA, CANCEL }
